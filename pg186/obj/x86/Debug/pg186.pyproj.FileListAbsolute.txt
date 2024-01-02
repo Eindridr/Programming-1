@@ -1,0 +1,14 @@
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\pg186.exe.config
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\pg186.exe
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\pg186.dll
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\IronPython.dll
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\IronPython.Modules.dll
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\Microsoft.Scripting.dll
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\IronPython.xml
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\bin\Debug\IronPython.Modules.xml
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\obj\x86\Debug\pg186.pyprojResolveAssemblyReference.cache
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\obj\x86\Debug\pg186.MainForm.resources
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\obj\x86\Debug\pg186.pyproj.GenerateResource.Cache
+C:\Users\gilberts.w\Desktop\Programming-1\pg186\obj\x86\Debug\pg186.exe

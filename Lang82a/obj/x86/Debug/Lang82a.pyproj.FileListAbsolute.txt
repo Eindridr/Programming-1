@@ -1,0 +1,14 @@
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\obj\x86\Debug\Lang82a.pyprojResolveAssemblyReference.cache
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\obj\x86\Debug\Lang82a.MainForm.resources
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\obj\x86\Debug\Lang82a.pyproj.GenerateResource.Cache
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\Lang82a.exe.config
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\Lang82a.exe
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\Lang82a.dll
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\IronPython.dll
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\IronPython.Modules.dll
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\IronPython.xml
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\bin\Debug\IronPython.Modules.xml
+C:\Users\gilberts.w\Desktop\Programming-1\Lang82a\obj\x86\Debug\Lang82a.exe
